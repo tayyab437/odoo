@@ -1,0 +1,6 @@
+{
+  "name": "Odoo Sales Manager",
+  "description": "A clean, Odoo-inspired, beginner-friendly Sales Management application with customer profiles, product catalogs, and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
